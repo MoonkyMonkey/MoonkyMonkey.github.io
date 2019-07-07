@@ -1,7 +1,7 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
-baseurl:
+baseurl: moonkymonkey.github.io
 url: moonkymonkey.github.io
 date_format: "ordinal"
 title: A bit of Programer
@@ -17,7 +17,7 @@ side_bar_repo_limit: 5
 # ---------------- #
 author: MoonkyMonkey 
 organization: 
-organization_url: MoonkyMonkey.github.io
+organization_url: moonkymonkey.github.io
 github_username: MoonkyMonkey
 location: Guangzhou, China
 email: 
