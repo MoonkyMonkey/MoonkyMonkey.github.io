@@ -2,15 +2,6 @@
 
 我的个人博客：<https://moonkymonkey.github.io>
 
-## 概览
-
-<!-- vim-markdown-toc GFM -->
-
-* [贴心提示](#贴心提示)
-* [致谢](#致谢)
-
-<!-- vim-markdown-toc -->
-
 ## 贴心提示
 
 1. 排版建议遵照一定的规范，推荐 [中文文案排版指北（简体中文版）][1]。
