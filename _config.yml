@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: MoonkyMonkey.github.io
+url: moonkymonkey.github.io
 date_format: "ordinal"
 title: A bit of Programer
 subtitle: ""
