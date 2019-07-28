@@ -102,10 +102,10 @@ gitment:
         client_secret: 
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: 
-    repo: blog-comments
-    clientID: 
-    clientSecret: 
+    owner: MoonkyMonkey
+    repo: blog
+    clientID: 83a02e108336104e61ef
+    clientSecret: c1c69bf46251e776aa81413de6c3666cb9c175db 
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
