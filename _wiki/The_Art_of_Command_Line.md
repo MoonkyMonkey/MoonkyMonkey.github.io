@@ -1,3 +1,11 @@
+---
+layout: wiki
+title: the-art-of-command-line
+categories: [Linux, shell]
+description: 命令行的艺术
+keywords: bash, cygwin, CMD, shell, Linux
+---
+
 本内容来源：
 forked from jlevy/the-art-of-command-line [原文](https://github.com/jlevy/the-art-of-command-line)
 
