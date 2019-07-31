@@ -16,5 +16,5 @@ permalink: /wiki/
 <li class="listing-item"><a href="{{ site.url }}{{ wiki.url }}">{{ wiki.title }}</a></li>
 {% endif %}
 {% endfor %}
-[Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
+<li class="listing-item"><a href="https://google.github.io/styleguide/cppguide.html">Google C++ Style Guide</a></li>
 </ul>
