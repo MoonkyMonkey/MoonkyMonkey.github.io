@@ -17,4 +17,5 @@ permalink: /wiki/
 {% endif %}
 {% endfor %}
 <li class="listing-item"><a href="https://google.github.io/styleguide/cppguide.html">Google C++ Style Guide</a></li>
+<li class="listing-item"><a href="https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md">命令行的艺术</a></li>
 </ul>
