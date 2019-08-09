@@ -5,7 +5,7 @@ baseurl: moonkymonkey.github.io
 url: 
 date_format: "ordinal"
 title: A bit of Programer
-subtitle: "点滴开始学习编程，一步一个脚印。"
+subtitle: ""
 description: "萌新程序员"
 keywords: 
 timezone: Asia/Shanghai
@@ -34,9 +34,9 @@ navs:
     href: /categories/
     label: 分类
 
-#   -
-#     href: /archives/
-#     label: 归档
+  -
+    href: /archives/
+    label: 归档
 
   -
     href: /wiki/
