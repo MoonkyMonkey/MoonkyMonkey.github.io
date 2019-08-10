@@ -10,16 +10,12 @@ permalink: /wiki/
 
 > 脑子就像内存，笔记就像硬盘。
 
-> 日常记录
-
 <ul class="listing">
 {% for wiki in site.wiki %}
 {% if wiki.title != "Wiki Template" %}
 <li class="listing-item"><a href="{{ site.url }}{{ wiki.url }}">{{ wiki.title }}</a></li>
 {% endif %}
 {% endfor %}
-<br>
-> 日常查阅
 
 <li class="listing-item"><a href="https://help.github.com/en/articles/keyboard-shortcuts">Github Keyboard-shotcuts</a></li>
 <li class="listing-item"><a href="https://google.github.io/styleguide/cppguide.html">Google C++ Style Guide</a></li>
