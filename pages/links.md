@@ -1,17 +1,18 @@
 ---
 layout: page
 title: Links
-description: 没有链接的博客是孤独的
-keywords: 友情链接
+description: 博客链接
+keywords: 链接
 comments: true
 menu: 链接
 permalink: /links/
 ---
+Ideas worth spreading, Knowledge worth Sharing.
 
 > 博客链接
 
 {% for link in site.data.links %}
-  {% if link.src == 'life' %}
+  {% if link.src == 'www' %}
 * [{{ link.name }}]({{ link.url }})
   {% endif %}
 {% endfor %}
@@ -19,7 +20,7 @@ permalink: /links/
 > 友情链接
 
 {% for link in site.data.links %}
-  {% if link.src == 'www' %}
+  {% if link.src == 'life' %}
 * [{{ link.name }}]({{ link.url }})
   {% endif %}
 {% endfor %}
