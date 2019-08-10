@@ -1,14 +1,14 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: 点滴起步学编程
+keywords: ABOP1024, Winn, MoonkyMonkey
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-A bit of Programer 从点滴起步学习编程
+A bit of Programmer 从点滴起步学编程
 
 ## 联系
 
