@@ -18,8 +18,7 @@ permalink: /wiki/
 <li class="listing-item"><a href="{{ site.url }}{{ wiki.url }}">{{ wiki.title }}</a></li>
 {% endif %}
 {% endfor %}
-
-
+<br>
 > 日常查阅
 
 <li class="listing-item"><a href="https://help.github.com/en/articles/keyboard-shortcuts">Github Keyboard-shotcuts</a></li>
