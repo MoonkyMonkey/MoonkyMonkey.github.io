@@ -7,7 +7,7 @@ fi
 
 suffix=".md"
 date=$(date +%Y-%m-%d-)
-if [$1];then
+if [ $1 ]; then
     mv $1 ../_posts/$date$filename$suffix
 else
     echo "No filename input !"
