@@ -5,6 +5,7 @@ categories: [problem, tools]
 description: vscode使用cygwin中的git无法识别
 keywords: vscode, cygwin, git
 ---
+## Vscode集成Cygwin安装的Git时无法使用问题
 
 ### 问题描述
 
